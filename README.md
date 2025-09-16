@@ -1,4 +1,3 @@
-[No content]
 # PR Insight Bot: CI/CD Assistant for GitHub PRs
 
 This bot automatically reviews Pull Requests (PRs) using AI, providing improved PR descriptions, code summaries, suggested tests, and code quality notes. It runs as a GitHub Action whenever a PR is opened, edited, or synchronized.
